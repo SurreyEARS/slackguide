@@ -1,6 +1,3 @@
-# slackguide
-Guide for using Slack
+# EARS Guide for Using Slack
 
-[Open the guide](https://surreyears.github.io/slackguide/)
-
-TODO: write short readme
+[Open the guide here](https://surreyears.github.io/slackguide/)

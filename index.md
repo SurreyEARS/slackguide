@@ -65,4 +65,4 @@ If you would like to have a personal list, send a DM to todobot with `/todo` and
 
 
 ## Support
-Having trouble with using Slack? Check Slack's [Getting Started guide](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides) or Workast's [Help site](https://help.todobot.io/). If you're still unable to solve the issue, contact us at [hello@surreyears.co.uk](mailto:hello@surreyears.co.uk) and we’ll help you sort it out.
+Having trouble with using Slack? Check Slack's [Getting Started guide](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides) or Workast's [Help site](https://help.todobot.io/). If you're still unable to solve the issue, contact us at [hello[at]surreyears.co.uk](mailto:hello@surreyears.co.uk) and we’ll help you sort it out.
