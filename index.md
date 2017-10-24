@@ -1,37 +1,54 @@
 # EARS Slack guide
+Slack is a digital workspace that EARS uses to manage projects and tasks. 
 
-You can use the [editor on GitHub](https://github.com/SurreyEARS/slackguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Join the EARS workspace
+- Enter your details
+- Check your emails and accept the invitation
+- Download Slack apps or just use it in your browser
+	- [iOS](https://get.slack.help/hc/en-us/articles/208401947)
+	- [Android](https://get.slack.help/hc/en-us/articles/207691318)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	- [macOS](https://get.slack.help/hc/en-us/articles/207677868)
+	- [Windows](https://get.slack.help/hc/en-us/articles/209038037-Slack-for-Windows)
+	- [Linux](https://get.slack.help/hc/en-us/articles/212924728)
 
-### Markdown
+	- [Web](https://surreyears.slack.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here's what a workspace looks like:
+![Image](https://get.slack.help/hc/article_attachments/115015069663/WHAT_IS_SLACK_Slack_overview.png)
 
-```markdown
-Syntax highlighted code block
+## Channels
+Your Slack workspace is comprised of channels. You’ll use channels to hold most of your conversations with other members. They are organised around projects, or teams. Every workspace starts with two channels by default:  #general and #random.<sup>[1](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels)</sup>
 
-# Header 1
-## Header 2
-### Header 3
+In Slack, there are two kinds of channels:
+- **Public channels:** They're open to your entire team. All messages within a public channel are archived in Slack and are searchable by all members. Marked with a # next to the channel's name.
+- **Private channels:** They allow a group of teammates to discuss and share privately within Slack. You have to be invited to a private channel in order to see and search for its contents. Marked with a *lock icon* next to the channel's name.
 
-- Bulleted
-- List
+## Direct messages
+When you need to quickly chat or check in with teammates, you can send them a direct message (DM). Direct messages are best for ad-hoc, quick discussions. These conversations are only visible to and searchable by you and the other members you DM. You can DM just one person, or start a group message with up to 8 other people.<sup>[2](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#direct-messages-)
 
-1. Numbered
-2. List
+## Sending messages
+Communication in Slack happens through messages, whether they’re in channels or DMs. You can use [Markdown](https://get.slack.help/hc/en-us/articles/202288908) to format your messages.
 
-**Bold** and _Italic_ and `Code` text
+If you need to call the attention of someone specific, type `@` followed by their display name to send them a notification.<sup>[3](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#sending-messages)</sup>
 
-[Link](url) and ![Image](src)
-```
+## Notifications
+You can choose to receive notifications on your desktop, your mobile device, or by email. Notifications can even be customized by channel, so you can prioritize where your attention goes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can set up Do not disturb, which will mute all notifications between the two specified times. If you would like to turn this off, open `Preferences` then `Notifications` and set it up based on your preferences.<sup>[4](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#notifications)</sup>
 
-### Jekyll Themes
+## Useful Slack commands
+- `@channel`: To send a notification to everyone in the channel. This can be annoying if you’re in a large channel. People tend to use `@channel` a lot, but it’s useful for getting everyone’s attention.
+- `@username`: To send a notification to a specific person inside a channel, type `@username`. For example, `@john`.
+- `@here`: Like `@channel` but only notifies people that are online and active, so less annoying.
+- `/me`: If you want to talk in third person, this is for you. For example, if you’re going to lunch, you’d type "/me is going to lunch" and it would show as "John is going to lunch.""
+- `/shrug`: Adds a `¯\_(ツ)_/¯` to your message.
+- `/leave`: Drop out of a channel.
+- `/collapse`: Hides all images and GIFs in a channel.
+<sup>[5](https://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SurreyEARS/slackguide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Workast
+TODO
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support
+Having trouble with using Slack? Check Slack's [Getting Started guide](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides) or contact us at [hello@surreyears.co.uk](mailto:hello@surreyears.co.uk) and we’ll help you sort it out.
