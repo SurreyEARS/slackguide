@@ -2,7 +2,7 @@
 Slack is a digital workspace that EARS uses to manage projects and tasks. 
 
 ## Join the EARS workspace
-- Open this website [link](https://join.slack.com/t/surreyears/signup)
+- [Open this website](https://join.slack.com/t/surreyears/signup)
 - Enter your details
 - Check your emails and accept the invitation
 - Download Slack apps or just use it in your browser
