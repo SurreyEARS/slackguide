@@ -33,10 +33,12 @@ Communication in Slack happens through messages, whether they’re in channels o
 
 If you need to call the attention of someone specific, type `@` followed by their display name to send them a notification.<sup>[3](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#sending-messages)</sup>
 
+To make it easier to group conversations, you should use threads for replying to specific messages. Threads let you respond directly to a message in a channel, keeping the replies organized neatly in a single, threaded conversation.<sup>[4](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads)</sup>
+
 ## Notifications
 You can choose to receive notifications on your desktop, your mobile device, or by email. Notifications can even be customized by channel, so you can prioritize where your attention goes.
 
-You can set up Do not disturb, which will mute all notifications between the two specified times. If you would like to turn this off, open `Preferences` then `Notifications` and set it up based on your preferences.<sup>[4](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#notifications)</sup>
+You can set up Do not disturb, which will mute all notifications between the two specified times. If you would like to turn this off, open `Preferences` then `Notifications` and set it up based on your preferences.<sup>[5](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#notifications)</sup>
 
 ## Useful Slack commands
 - `@channel`: To send a notification to everyone in the channel. This can be annoying if you’re in a large channel. People tend to use `@channel` a lot, but it’s useful for getting everyone’s attention.
@@ -46,7 +48,7 @@ You can set up Do not disturb, which will mute all notifications between the two
 - `/shrug`: Adds a `¯\_(ツ)_/¯` to your message.
 - `/leave`: Drop out of a channel.
 - `/collapse`: Hides all images and GIFs in a channel.
-<sup>[5](https://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
+<sup>[6](https://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
 
 ## Workast
 We use [Workast](https://www.workast.io) to manage tasks for projects. You can get the list of projects by opening [this site](https://surreyears.workast.io) or by typing `/todo` in the project's channel.
