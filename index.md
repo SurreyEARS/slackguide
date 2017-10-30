@@ -15,7 +15,7 @@ Slack is a digital workspace that EARS uses to manage projects and tasks.
 
 	- [Web](https://surreyears.slack.com)
 
-You will not beable to get notifications if you only use the web interface.
+Note: If you are using the web interface, you will only get notifications if it's supported.
 
 Here's what a workspace looks like:
 ![Image](https://get.slack.help/hc/article_attachments/115015069663/WHAT_IS_SLACK_Slack_overview.png)
@@ -36,6 +36,7 @@ Communication in Slack happens through messages, whether they’re in channels o
 If you need to call the attention of someone specific, type `@` followed by their display name to send them a notification.<sup>[3](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#sending-messages)</sup>
 
 To make it easier to group conversations, you should use threads for replying to specific messages. Threads let you respond directly to a message in a channel, keeping the replies organized neatly in a single, threaded conversation.<sup>[4](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads)</sup>
+
 To start a thread use the ![Image](images/threadIcon.png) button.
 
 ## Notifications
@@ -68,7 +69,7 @@ On the web interface, you can see all your lists at a glance. You can select per
 
 If you would like to have a personal list, send a DM to todobot with `/todo` and it will create a list for you. This way you can send it tasks without opening the web interface.
 
-Discussions about tasks should be done in a thread on the task. As workast messages are not visble from within slack.
+Discussions about tasks should be done in a thread in the appropriate channel. Comments on tasks are not visible in Slack, only on the web interface for Workast.
 
 ## Support
 Having trouble with using Slack? Check Slack's [Getting Started guide](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides) or Workast's [Help site](https://help.todobot.io/). If you're still unable to solve the issue, contact us at [hello[at]surreyears.co.uk](mailto:hello@surreyears.co.uk) and we’ll help you sort it out.
